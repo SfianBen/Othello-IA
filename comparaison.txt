@@ -1,0 +1,13 @@
+AlphaBeta avec évaluation par score :
+- Nombre de coups : 60
+- Moyenne : 2.80
+- Max : 39
+- Min : -28
+
+NegaMax avec évaluation mixte :
+- Nombre de coups : 60
+- Moyenne : -8.70
+- Max : 211
+- Min : -232
+
+Conclusion : AlphaBeta avec score est plus stable mais moins performant en termes de score moyen.
