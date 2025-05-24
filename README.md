@@ -1,32 +1,32 @@
-# 🧠 Othello IA – Projet FDT
+#  Othello IA – Projet FDT
 
 Ce projet est un jeu **Othello/Reversi** développé en Python avec une interface graphique via **Tkinter**, pour le module **Fondements de l’Intelligence Artificielle (FDT_IA)**.  
 Il inclut plusieurs intelligences artificielles capables de s’affronter automatiquement.
 
 ---
 
-## 🎮 Fonctionnalités principales
+##  Fonctionnalités principales
 
-- ✅ Interface graphique avec Tkinter
-- ✅ Mode **Joueur vs IA** ou **IA vs IA**
-- ✅ 3 algorithmes d’IA implémentés :
+-  Interface graphique avec Tkinter
+-  Mode **Joueur vs IA** ou **IA vs IA**
+-  3 algorithmes d’IA implémentés :
   - MinMax
   - Alpha-Bêta
   - NegaMax
-- ✅ 4 fonctions d’évaluation :
+- 4 fonctions d’évaluation :
   - Score
   - Position
   - Mobilité
   - Mixte (score + position + mobilité)
-- ✅ Menu interactif pour lancer une partie
-- ✅ Timer + Compteur de tours
-- ✅ Fin automatique de la partie
-- ✅ Génération de fichiers `.txt` avec les scores d’évaluation IA
+-  Menu interactif pour lancer une partie
+-  Timer + Compteur de tours
+-  Fin automatique de la partie
+-  Génération de fichiers `.txt` avec les scores d’évaluation IA
 
 
 ---
 
-## 🚀 Lancement
+##  Lancement
 
 ```bash
 python main.py
@@ -36,7 +36,7 @@ python main.py
 
 ---
 
-## 📁 Arborescence du projet
+## Arborescence du projet
 
 ```
 othello/
@@ -54,7 +54,7 @@ othello/
 
 ---
 
-## 📝 Test IA
+## Test IA
 
 Tu peux comparer les IA entre elles à travers exemple :
 - `alphabeta_score.txt`
